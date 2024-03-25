@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+#container{
+    margin: 0 auto;
+    padding: 20px;
+    width: 1200px;
+    height: 800px;
+    border: 2px solid #000000;
+    background-color: #d1f2f8;
+    font-size: 25px;
+}
+td{
+    max-width: 100%;
+    white-space: nowrap;
+}
+
